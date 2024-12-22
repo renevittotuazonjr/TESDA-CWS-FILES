@@ -1,0 +1,17 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.brand-logo img {
+    width: 120px; 
+    height: auto; 
+}
+
+
+
+blockquote {
+    border-left: 5px solid #42a5f5; 
+    background-color: #e3f2fd; 
+    padding: 10px;
+}
+
